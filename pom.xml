@@ -8,6 +8,8 @@
   <artifactId>ci-testing-transitive</artifactId>
   <version>0.9.0-SNAPSHOT</version>
 
+  <!-- test -->
+
   <dependencies>
 
     <dependency>
